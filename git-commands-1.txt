@@ -6,3 +6,22 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
+
+-----------------------------------------------------------------
+
+Scenario 1:
+First Release -> Done
+Second Release
+        2 Features
+        2 People
+THird Release
+        1 Feature
+        1 Person
+
+Scenario 2:
+Two people
+
+Person A -> Enhance the framework
+Person B -> Automating test cases
+
+testMethod1 -> getName()
