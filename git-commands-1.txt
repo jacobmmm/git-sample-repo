@@ -7,7 +7,11 @@ git commit -m ""
 git log
 Git diff <filename>
 
------------------------------------------------------------------
+
+
+
+
+
 
 Scenario 1:
 First Release -> Done
@@ -24,4 +28,4 @@ Two people
 Person A -> Enhance the framework
 Person B -> Automating test cases
 
-testMethod1 -> getName()
+-------Master------Release-----Master------Release------Master
